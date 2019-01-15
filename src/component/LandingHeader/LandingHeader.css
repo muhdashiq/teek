@@ -1,0 +1,18 @@
+.landing-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.header-text {
+  color: green;
+  font-size: 20vw;
+}
+
+.sub-header-text {
+  color: gray;
+  position: absolute;
+  bottom: 30px;
+}
